@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shafquat
 ================================================================================================================================
 
-💻 Software & QA Automation Engineer | 🚀 Aspiring Entrepreneur | 🤖 Passionate about AI, ML & Data Science
+💻 Software & QA Automation Engineer 
 -----------------------------------------------------------------------------------------------------------
 
 My GitHub profile showcases a variety of projects, from full-stack applications to innovative solutions in e-commerce, game development and beyond. I am driven by the vision of building impactful technology that solves real-world problems, and I’m excited to continue exploring the vast potential of AI and data-driven solutions. Let’s connect and create something amazing together!
@@ -9,9 +9,7 @@ My GitHub profile showcases a variety of projects, from full-stack applications 
 * 🌍  I'm based in Vancouver, British Columbia, currently working in Dhaka, Bangladesh.
 * 🖥️  See my portfolio at [this link](http://shafquatulbari.netlify.app/)
 * 🚀  I'm currently working on [MyGP app's quality assurance being part of Brain Station 23's Test Automation Team](http://www.grameenphone.com/personal/services/digital-services/mygp-app)
-* 🧠  I'm learning Project Management, Data Science, Deep Learning
 * 🤝  I'm open to collaborating on Backend, Frontend or even Full-Stack Projects. (preferably MERN stack or Django with React.js)
-* ⚡  You might bump into me on a hiking trail or at the gym.
 
 <a href="https://www.github.com/shafquatulbari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shafquatulbari?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
